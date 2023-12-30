@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.min{
+    text-align: center;
+}
+
+h1{
+    margin-top: 3rem;
+}
+
+h3{
+    margin-top: 1rem;
+}
+
+input{
+    margin-top: 1rem;
+    padding: 7px;
+    width: 20rem;
+    font-size: 18px;
+}
+
+button{
+    margin-top: 1rem;
+    padding: 10px;   
+    color: white;
+    background-color:rgb(30, 144, 255);
+    border: none;
+    border-radius: 5px;
+}
+
+button:active{
+    transform: scale(0.93);
+}
+
+#p1{
+    margin-top: 1rem;
+    font-size: 22px;
+}
+
